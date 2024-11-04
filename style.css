@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+}
+
+iframe {
+  width: 100%;
+  max-width: 400px;
+  height: 225px;
+  border: 1px solid #ccc;
+  margin: 10px;
+}
+
+@media (min-width: 600px) {
+  iframe {
+    width: 48%;
+  }
+}
+
+@media (min-width: 992px) {
+  iframe {
+    width: 32%;
+  }
+}
+
+@media (min-width: 1200px) {
+  iframe {
+    width: 28%;
+  }
+}
