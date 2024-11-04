@@ -10,6 +10,10 @@ let links = [
 links = links.map((link) => {
   if (link.includes("youtube.com/watch?v=")) {
     return link.replace("youtube.com/watch?v=", "youtube.com/embed/", "");
+    else if (link.includes("facebook.com/reel/")) {
+    // Mở trong tab mới nếu là Facebook Reel
+    window.open(link, "_blank");
+    return null;
   }
   return link;
 });
