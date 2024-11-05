@@ -23,16 +23,24 @@ iframe {
   iframe {
     width: 48%;
   }
+
+  h1 {
+    display: flex;
+  }
 }
 
 @media (min-width: 992px) {
   iframe {
     width: 32%;
   }
-}
 
-@media (min-width: 1200px) {
-  iframe {
-    width: 28%;
+  @media (min-width: 1200px) {
+    iframe {
+      width: 28%;
+    }
+
+    h1 {
+      display: flex;
+    }
   }
 }
