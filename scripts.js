@@ -1,6 +1,5 @@
 let links = [
   "https://www.youtube.com/watch?v=RvNcGgMtf38",
-  "https://www.facebook.com/plugins/video.php?href=https://web.facebook.com/reel/1185408302521740",
   "https://www.facebook.com/plugins/video.php?href=https://web.facebook.com/reel/1185408302521740&width=400",
   "https://www.facebook.com/plugins/video.php?href=https://web.facebook.com/reel/1097223367951825",
   "https://www.youtube.com/watch?v=1QXBNUNS3_I",
