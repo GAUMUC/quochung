@@ -9,7 +9,7 @@ let links = [
   "https://www.facebook.com/reel/1967087067106319",
   "https://www.facebook.com/reel/563150009675690",
   "https://www.facebook.com/reel/916844310499914",
-  "https://www.facebook.com/watch/?v=1285250969573426&rdid=otRTFFOHbKFyGcEh:,
+  "https://www.facebook.com/watch/?v=1285250969573426&rdid=otRTFFOHbKFyGcEh",
   "https://www.facebook.com/watch/?v=408878205635871&rdid=vN4Tx8izfbChSeU3",
   "https://www.facebook.com/reel/1220017899639569",
   "https://www.facebook.com/reel/511156445065724",
@@ -65,7 +65,7 @@ let links = [
   "https://www.facebook.com/reel/449130014596959",
   "https://www.facebook.com/reel/3773991316220086",
   "https://www.facebook.com/reel/1061710851758258",
-  "https://www.facebook.com/reel/1481459662568907:,
+  "https://www.facebook.com/reel/1481459662568907",
   "https://www.facebook.com/reel/1679838942829866",
   "https://www.facebook.com/reel/8509433959070882",
   "https://www.facebook.com/reel/1201998690847552",
@@ -95,7 +95,7 @@ let links = [
   "https://www.facebook.com/reel/345215568611031",
   "https://www.facebook.com/reel/1021840196300955",
   "https://www.facebook.com/reel/3606839869532441",
-   "https://www.facebook.com/reel/533657519114446",
+  "https://www.facebook.com/reel/533657519114446",
   "https://www.facebook.com/reel/449130014596959",
   "https://www.facebook.com/reel/458129766822986",
   "https://www.facebook.com/reel/1494077108135233",
@@ -109,7 +109,7 @@ let links = [
   "https://www.facebook.com/reel/1660515191396263",
   "https://www.facebook.com/reel/460227750405165",
   "https://www.facebook.com/reel/760381626072367",
-  "https://www.facebook.com/watch/?v=938579434321736&rdid=FjLsyC0wzS1sfqmP"
+  "https://www.facebook.com/watch/?v=938579434321736&rdid=FjLsyC0wzS1sfqmP",
 ];
 
 links = links.map((link) => {
